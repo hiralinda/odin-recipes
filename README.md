@@ -57,3 +57,7 @@ The project uses a custom CSS file (`styles.css`) to implement a basic design:
 ## Credits
 
 This project was created as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
+
+## Live Demo
+
+[View Live Demo](https://hiralinda.github.io/odin-recipes/)
